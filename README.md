@@ -4,7 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolly-code)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolly-code&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-- 📫 How to reach me: [![pygame](https://img.youtube.com/vi/FfWpgLFMI7w/0.jpg)](http://www.youtube.com/watch?v=FfWpgLFMI7w"pygame")
 <!--
 **Wolly-code/Wolly-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
