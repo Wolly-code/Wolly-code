@@ -1,5 +1,13 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolly-code&show_icons=true&theme=radical)
+name: Recently starred
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.stars.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_stars: yes
+  plugin_stars_limit: 3
 
 <!--
 **Wolly-code/Wolly-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
